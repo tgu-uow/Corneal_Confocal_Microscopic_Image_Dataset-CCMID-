@@ -57,7 +57,9 @@ Copyright (c) 2021 TGU-UOW
 ---
 # 角膜共聚焦显微图像数据集（CCMID）
 
-## 数据集介绍
+## 关于CCMID数据集
+
+## CCMID数据集介绍
 CCMID数据集提供3种不同的图像数据
 
 * raw_data: 未经任何处理的图像，图像尺寸为384×384，图像格式为.jpg。
@@ -73,7 +75,7 @@ Biblatex entry:
 Coming soon
 ``
 
-## Contact Us
+## 联系我们
 讨论数据集的相关问题或其他问题，请通过电子邮件联系：
 
 **liguangxu@tiangong.edu.com**
