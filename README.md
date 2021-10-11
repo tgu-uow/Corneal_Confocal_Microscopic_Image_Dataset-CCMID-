@@ -1,4 +1,4 @@
-# Corneal\_Confocal\_Microscopic\_Image\_Dataset-CCMID-
+# Corneal Confocal Microscopic Image Dataset (CCMID)
 
 ## About CCMID
 [TGU-UOW Lab](http://www.tgu-uow.com/)
