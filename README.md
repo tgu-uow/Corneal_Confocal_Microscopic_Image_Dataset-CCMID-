@@ -6,7 +6,7 @@
 The CCMID dataset provides three different types of image data：
 
 * **raw_data**: An unprocessed image set. The image size is 384 × 384, the image format is .Jpg.
-* **processed_data**: Image set with image vignetting processing. Prevent affecting subsequent image stitching operations.
+* **preprocessed_data**: Image set with image vignetting processing. Prevent affecting subsequent image stitching operations.
 * **stitched_data**：Manually stitching images. The image format is .tif, and '- tracking' is the corneal nerve tracking extracted image of the stitched image.
 
 **Folder Structure:**
@@ -16,7 +16,7 @@ example：
     |-- raw_data
         |-- OD
         |-- OS
-    |-- processed_data
+    |-- preprocessed_data
 		|-- OD
         |-- OS
     |-- stitched_data
@@ -25,10 +25,12 @@ example：
 
 ### raw_data<br>
 ![raw_data](example/raw_data/OD/shOD9.jpg)
-### processed_data<br>
-![processed_data](example/processed_data/OD/shOD9.jpg)
+### preprocessed_data<br>
+![preprocessed_data](example/preprocessed_data/OD/shOD9.jpg)
 ### stitched_data<br>
 ![stitched_data](example/stitched_data/shOD.jpg)
+### stitched-tracking_data<br>
+![stitched_data](example/stitched_data/shOD-tracking.jpg)
 
 ## Citing CCMID
 If you use CCMID in a scientific publication, we would appreciate references to the following paper:
@@ -58,7 +60,7 @@ Copyright (c) 2021 TGU-UOW
 CCMID数据集提供3种不同的图像数据
 
 * raw_data: 未经任何处理的图像，图像尺寸为384×384，图像格式为.jpg。
-* processed_data: 对原图像进行了渐晕处理，防止影响后续图像拼接操作。
+* preprocessed_data: 对原图像进行了渐晕处理，防止影响后续图像拼接操作。
 * stitched_data：手动拼接图像，图像格式为.tif，-tracking为拼接图像的角膜神经追踪提取图像。
 
 ## 引用 CCMID
