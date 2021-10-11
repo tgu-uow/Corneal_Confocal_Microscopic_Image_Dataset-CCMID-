@@ -1,8 +1,9 @@
 # Corneal\_Confocal\_Microscopic\_Image\_Dataset-CCMID-
 
+## About CCMID
 [TGU-UOW Lab](http://www.tgu-uow.com/)
 
-## Dataset Introduction
+## CCMID Introduction
 The CCMID dataset provides three different types of image data：
 
 * **raw_data**: An unprocessed image set. The image size is 384 × 384, the image format is .Jpg.
