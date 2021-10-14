@@ -33,6 +33,13 @@ example：
 ### stitched-tracking_data<br>
 ![stitched_data](example/stitched_data/shOD-tracking.jpg)
 
+## TODO List
+1. Fix the abnormal neural grayscale value in some images in preprocessed_data.
+
+2. Add corneal nerve annotation images (annotated by a physician) for image segmentation tasks.
+
+3. Upload more image data
+
 ## Citing CCMID
 If you use CCMID in a scientific publication, we would appreciate references to the following paper:
 
@@ -50,7 +57,6 @@ liguangxu@tiangong.edu.com
 litianyu@tiangong.edu.com
 
 ## Copyright
-See LICENSE for details. <br>
 Do not use for commercial purposes without permission. <br>
 Copyright (c) 2021 TGU-UOW
 
@@ -66,6 +72,12 @@ CCMID数据集提供3种不同的图像数据
 * preprocessed_data: 对原图像进行了渐晕处理，防止影响后续图像拼接操作。
 * stitched_data：手动拼接图像，图像格式为.tif，-tracking为拼接图像的角膜神经追踪提取图像。
 
+## 待办事项清单
+1. 修正preprocessed_data中某些图片中神经灰度值异常问题。
+
+2. 添加角膜神经标注图（由医生标注），用于图像分割任务。
+
+3. 上传更多图像数据
 ## 引用 CCMID
 如果您在论文中使用CCMID数据集，我们将感谢您参考以下论文：
 
@@ -78,9 +90,9 @@ Coming soon
 ## 联系我们
 讨论数据集的相关问题或其他问题，请通过电子邮件联系：
 
-**liguangxu@tiangong.edu.com**
+**liguangxu@tiangong.edu.cn**
 
-**litianyu@tiangong.edu.com**
+**litianyu@tiangong.edu.cn**
 
 ## 版权所有
 未经允许，禁止用于商业用途 <br>
