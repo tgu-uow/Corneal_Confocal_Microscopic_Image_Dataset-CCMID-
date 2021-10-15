@@ -25,13 +25,13 @@ example：
 
 
 ### raw_data<br>
-![raw_data](example/raw_data/OD/shOD9.jpg)
+![raw_data](example/raw_data/OD/zxOD174.jpg)
 ### preprocessed_data<br>
-![preprocessed_data](example/preprocessed_data/OD/shOD9.jpg)
+![preprocessed_data](example/preprocessed_data/OD/zxOD174.jpg)
 ### stitched_data<br>
-![stitched_data](example/stitched_data/shOD.jpg)
+![stitched_data](example/stitched_data/zxOS.jpg)
 ### stitched-tracking_data<br>
-![stitched_data](example/stitched_data/shOD-tracking.jpg)
+![stitched_data](example/stitched_data/zxOS-tracking.jpg)
 
 ## TODO List
 1. Fix the abnormal neural grayscale value in some images in preprocessed_data.
@@ -52,9 +52,9 @@ Coming soon
 ## Contact Us
 To discuss the dataset, Please contact email
 
-liguangxu@tiangong.edu.com
+liguangxu@tiangong.edu.cn
 
-litianyu@tiangong.edu.com
+litianyu@tiangong.edu.cn
 
 ## Copyright
 Do not use for commercial purposes without permission. <br>
